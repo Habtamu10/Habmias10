@@ -24,8 +24,7 @@
 
 ## 📫 Connect with Me
 - GitHub: [@habmias10](https://github.com/habmias10)
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Your professional email]
+- Email: [Habtamubiks4@gmail.com]
 
 ## 🚀 Currently Learning
 - Advanced Software Architecture
@@ -34,4 +33,4 @@
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
