@@ -28,7 +28,7 @@
 
 ## 🚀 Currently Learning
 - Advanced Software Architecture
-- Cloud Computing
+
 - Machine Learning Fundamentals
 
 ---
