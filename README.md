@@ -1,4 +1,4 @@
- Hi there! 👋 I'm Habtamu Biks
+# Hi there! 👋 I'm Habtamu Biks
 
 ## 🎓 About Me
 - 5th Year Software Engineering Student
@@ -17,6 +17,16 @@
 - MySQL, MongoDB
 - Docker, AWS (Learning)
 
+## 📂 Repository Contents
+| Folder | Description |
+|--------|-------------|
+| `python/` | Python code examples and utilities |
+| `javascript/` | JavaScript examples and patterns |
+| `java/` | Java code examples |
+| `algorithms/` | Algorithm implementations (sorting, searching, DP, graphs) |
+| `projects/` | Mini project implementations |
+| `notes/` | Reference notes for various technologies |
+
 ## 📈 GitHub Stats
 ![Habtamu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=habmias10&show_icons=true&theme=radical)
 
@@ -24,12 +34,12 @@
 
 ## 📫 Connect with Me
 - GitHub: [@habmias10](https://github.com/habmias10)
-- Email[Habtamubiks4@gmail.com]
+- Email: [Habtamubiks4@gmail.com](mailto:Habtamubiks4@gmail.com)
 
 ## 🚀 Currently Learning
 - Advanced Software Architecture
-
 - Machine Learning Fundamentals
+- Cloud Computing (AWS)
 
 ---
 
